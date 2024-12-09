@@ -1,1 +1,1 @@
-This repository contains my solutions for [Advent of Code](https://adventofcode.com/) problems.
+This repository contains my solutions for [Advent of Code](https://adventofcode.com/) puzzles.
