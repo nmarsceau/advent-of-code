@@ -1,0 +1,13 @@
+{
+  "name": "24_1",
+  "version": "1.0.0",
+  "description": "Solution for Advent of Code 2021 day 24 part 1.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests for this puzzle.'",
+    "start": "node index.js"
+  },
+  "author": "Nick Marsceau",
+  "license": "ISC"
+}
