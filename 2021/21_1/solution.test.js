@@ -10,7 +10,7 @@ async function getTestInput(filename) {
 		})
 }
 
-describe("final test", () => {
+describe("tests", () => {
 	test("test input", async () => {
 		const EXPECTED = 739785
 		return getTestInput("./input.test.dat")
