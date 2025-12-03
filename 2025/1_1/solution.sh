@@ -3,7 +3,7 @@
 position=50
 timesAtZero=0
 
-while read line; do
+while IFS= read -r line || [ -n "$line" ]; do
 	# Move the position
 	number=${line//R/}
 	number=${number//L/-}
