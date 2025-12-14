@@ -1,7 +1,5 @@
 package com.nmarsceau.advent_of_code_2025_day_5_part_1;
 
-import com.nmarsceau.advent_of_code_2025_day_5_part_1.Ingredient;
-
 class IngredientRange {
 	private Ingredient start;
 	private Ingredient end;

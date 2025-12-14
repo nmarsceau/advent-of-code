@@ -2,7 +2,6 @@ package com.nmarsceau.advent_of_code_2025_day_5_part_1;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import com.nmarsceau.advent_of_code_2025_day_5_part_1.IngredientRange;
 
 class Solution {
 	private static String getInput() {
