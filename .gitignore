@@ -1,3 +1,5 @@
 input.dat
 node_modules/
 com/
+solution
+!solution.go
